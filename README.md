@@ -2,6 +2,7 @@
 Abstractions for C# .NET 4.5+ code to aid testable code
 
 <image src="https://ci.appveyor.com/api/projects/status/github/Tazmainiandevil/Useful.Abstractions?branch=master&svg=true">
+[![NuGet version](https://badge.fury.io/nu/Useful.Abstractions.svg)](https://badge.fury.io/nu/Useful.Abstractions)
 
 The current version only has abstractions for the ```C# System.ConfigurationManager``` and ```C# System.Configuration``` classes but I have added some additional methods to the interface.
 
